@@ -20,12 +20,8 @@
                   <div class="lg:w-5/12 px-4 md:px-0">
                     <div class="md:p-12 md:mx-6">
                       <div class="text-center">
-                        <img
-                          class="mx-auto w-20"
-                          src="profile.png"
-                          alt="logo"
-                        />
-                        <h4 class="text-xl font-semibold mt-1 mb-12 pb-1">Hi, I am Shivam Saini.</h4>
+                        
+                        
                       </div>
                       <form id="form" onsubmit="return submitDetails();">
                         <p class="mb-4">Please submit your details!</p>
@@ -102,22 +98,14 @@
                         </div>
                         <div class="flex items-center justify-between pb-6">
                           
-                          <button
-                            type="button"
-                            class="inline-block ml-auto mr-0 px-6 py-2 border-2 border-red-600 text-red-600 font-medium text-xs leading-tight uppercase rounded hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
-                            onclick="resetDetails()"                         
-                          >
-                            Danger: Delete all records?
-                          </button>
+                         
                         </div>
                       </form>
                     </div>
                   </div>
                   <div
                     class="lg:w-7/12 flex items-center lg:rounded-r-lg rounded-b-lg lg:rounded-bl-none"
-                    style="
-                      background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
-                    "
+                    
                   >
                     <div class="text-white px-4 py-6 md:p-12 md:mx-6">
                       
